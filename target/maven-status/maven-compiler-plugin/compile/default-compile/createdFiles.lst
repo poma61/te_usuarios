@@ -1,0 +1,5 @@
+com\emergentes\controlador\UserController.class
+com\emergentes\utiles\ConexionB.class
+com\emergentes\dao\UsuarioDAO.class
+com\emergentes\dao\UserDAOimplents.class
+com\emergentes\modelo\User.class
